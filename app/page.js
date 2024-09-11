@@ -1,6 +1,6 @@
 import Image from "next/image";
 import styles from "./page.module.css";
-import hairBrush from "@app/components/hairBrush";
+
 
 export default function Home() {
   return (
